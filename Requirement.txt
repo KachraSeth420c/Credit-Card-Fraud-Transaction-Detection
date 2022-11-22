@@ -1,0 +1,10 @@
+The packages needed to be installed before running the code are:
+1. numpy
+2. sklearn
+3. pandas
+4. seaborn
+5. collections
+6. warnings
+7. matplotlib
+8. plotly
+9. imblearn
